@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- After each time you generate some code, you should ALWAYS run `npm run lint` to make sure the code you wrote is working!
+- When you add a component with Shadcn, it's NOT `npx shadcn-ui@latest add form`, the real command is by using npx shadcn@latest add [component] like `npx shadcn@latest add form`
